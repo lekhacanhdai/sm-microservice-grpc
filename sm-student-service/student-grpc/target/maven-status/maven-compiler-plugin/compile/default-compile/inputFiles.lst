@@ -1,0 +1,12 @@
+/home/lkadai0801/LapTrinhWeb/Microservice/student-management/sm-student-service/student-grpc/target/generated-sources/protobuf/grpc-java/com/student/manage/student/proto/StudentServiceGrpc.java
+/home/lkadai0801/LapTrinhWeb/Microservice/student-management/sm-student-service/student-grpc/target/generated-sources/protobuf/java/com/student/manage/student/proto/StudentOuterClass.java
+/home/lkadai0801/LapTrinhWeb/Microservice/student-management/sm-student-service/student-grpc/target/generated-sources/protobuf/java/com/student/manage/student/proto/StudentGrpcError.java
+/home/lkadai0801/LapTrinhWeb/Microservice/student-management/sm-student-service/student-grpc/target/generated-sources/protobuf/java/com/student/manage/student/proto/ListStudentResponseOrBuilder.java
+/home/lkadai0801/LapTrinhWeb/Microservice/student-management/sm-student-service/student-grpc/target/generated-sources/protobuf/java/com/student/manage/student/proto/StudentPageRequestOrBuilder.java
+/home/lkadai0801/LapTrinhWeb/Microservice/student-management/sm-student-service/student-grpc/target/generated-sources/protobuf/java/com/student/manage/student/proto/ListStudentRequestOrBuilder.java
+/home/lkadai0801/LapTrinhWeb/Microservice/student-management/sm-student-service/student-grpc/target/generated-sources/protobuf/java/com/student/manage/student/proto/StudentPageResponse.java
+/home/lkadai0801/LapTrinhWeb/Microservice/student-management/sm-student-service/student-grpc/target/generated-sources/protobuf/java/com/student/manage/student/proto/ListStudentRequest.java
+/home/lkadai0801/LapTrinhWeb/Microservice/student-management/sm-student-service/student-grpc/target/generated-sources/protobuf/java/com/student/manage/student/proto/StudentPageRequest.java
+/home/lkadai0801/LapTrinhWeb/Microservice/student-management/sm-student-service/student-grpc/target/generated-sources/protobuf/java/com/student/manage/student/proto/StudentPageResponseOrBuilder.java
+/home/lkadai0801/LapTrinhWeb/Microservice/student-management/sm-student-service/student-grpc/target/generated-sources/protobuf/java/com/student/manage/student/proto/StudentGrpcErrorOrBuilder.java
+/home/lkadai0801/LapTrinhWeb/Microservice/student-management/sm-student-service/student-grpc/target/generated-sources/protobuf/java/com/student/manage/student/proto/ListStudentResponse.java
